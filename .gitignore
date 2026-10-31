@@ -1,0 +1,7 @@
+*.o
+*.out
+*.pyc
+__pycache__/
+.vscode-ctags
+tags
+compile_commands.json
